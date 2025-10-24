@@ -1,0 +1,33 @@
+# Compiled Java files
+*.class
+
+# Generated figures
+*.png
+
+# Experiment output directories
+exp*/
+
+# Java package files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.iml
+
+# Temporary files
+*.tmp
+*.bak
+
